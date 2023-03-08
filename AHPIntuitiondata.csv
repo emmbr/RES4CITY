@@ -1,0 +1,29 @@
+﻿X,Compared with Y,Weights
+Hydropower,Marine energy,0.50
+Hydropower,Onshore wind,0.11
+Hydropower,Offshore wind,0.11
+Hydropower,Solar PV,0.11
+Hydropower,Solar CSP,0.17
+Hydropower,Bioenergy,0.11
+Hydropower,Geotherm,1.00
+Marine energy,Onshore wind,0.13
+Marine energy,Offshore wind,0.14
+Marine energy,Solar PV,0.14
+Marine energy,Solar CSP,2.00
+Marine energy,Bioenergy,0.14
+Marine energy,Geotherm,3.00
+Onshore wind,Offshore wind,3.00
+Onshore wind,Solar PV,2.00
+Onshore wind,Solar CSP,9.00
+Onshore wind,Bioenergy,4.00
+Onshore wind,Geotherm,9.00
+Offshore wind,Solar PV,0.33
+Offshore wind,Solar CSP,9.00
+Offshore wind,Bioenergy,2.00
+Offshore wind,Geotherm,9.00
+Solar PV,Solar CSP,9.00
+Solar PV,Bioenergy,2.00
+Solar PV,Geotherm,9.00
+Solar CSP,Bioenergy,0.11
+Solar CSP,Geotherm,1.00
+Bioenergy,Geotherm,0.11

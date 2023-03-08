@@ -1,0 +1,7 @@
+﻿X,Compared with Y,Weights
+Ints.Elec.Cap,Elec prod.,0.33
+Ints.Elec.Cap,Grants,0.33
+Ints.Elec.Cap,LCOE,0.14
+Elec prod.,Grants,1.00
+Elec prod.,LCOE,0.20
+Grants,LCOE,0.20

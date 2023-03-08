@@ -1,0 +1,11 @@
+Type,1,1,1,-1
+Weight,0.062,0.151,0.151,0.635
+Criteria,Inst. Elec. Cap. DK,Elec. Prod. In Cph,Research grants,LCOE
+Unit,MW,TJ,mio. DKK,$/MWh
+Q,,,,
+P,,,,
+V,,,,
+Onshore wind,4708,77,33,29.18
+Offshore wind,2306,147,62,48.48
+Solar PV,1540,46,19,42.34
+Bioenergy,17778,3514,102,115.1
